@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1a8a1bb8-86cb-43e8-bb31-e769ada06c02" name="Default Changelist" comment="" />
+    <list default="true" id="1a8a1bb8-86cb-43e8-bb31-e769ada06c02" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,6 +13,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JupyterTrust" id="c4cbd8a4-2483-4985-85ba-448beb6a562f" />
+  <component name="ProblemsViewState">
+    <option name="sortByName" value="true" />
+  </component>
   <component name="ProjectId" id="1g6POcj6H0zQSsPRxHgPNjIHW4C" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -29,7 +34,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597432042429</updated>
-      <workItem from="1597432086655" duration="288000" />
+      <workItem from="1597432086655" duration="1472000" />
     </task>
     <servers />
   </component>
