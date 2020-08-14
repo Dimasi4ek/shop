@@ -1,0 +1,60 @@
+{% load static %}
+
+<header>
+        <!-- Header Start -->
+        <div class="header-area">
+            <div class="main-header header-sticky">
+                <div class="container-fluid">
+                    <div class="menu-wrapper">
+                        <!-- Logo -->
+                        <div class="logo">
+                            <a href="/"><img src="{% static 'assets/img/logo/logo.png' %}" alt=""></a>
+                        </div>
+                        <!-- Main-menu -->
+                        <div class="main-menu d-none d-lg-block">
+                            <nav>                                                
+                                <ul id="navigation">  
+                                    <li><a href="/">Главная</a></li>
+                                    <li><a href="/shop/">Магазин</a></li>
+                                    <li><a href="/about/">О нас</a></li>
+                                    <li class="hot"><a href="/shop/">Новинки</a>
+                                        <ul class="submenu">
+                                            <li><a href="/shop/">Товары</a></li>
+                                            <li><a href="/product_details/"> Галерея</a></li>
+                                        </ul>
+                                    </li>
+                                    <li><a href="#">Страницы</a>
+                                        <ul class="submenu">
+                                            <li><a href="/login">Вход</a></li>
+                                            <li><a href="/cart">Корзина</a></li>
+                                            <!-- <li><a href="elements.html">Элементы</a></li> -->
+                                            <li><a href="/confirmation/">Подтверждение</a></li>
+                                            <li><a href="/checkout/">Оформление заказа</a></li>
+                                        </ul>
+                                    </li>
+                                    <li><a href="/contact/">Контакты</a></li>
+                                </ul>
+                            </nav>
+                        </div>
+                        <!-- Header Right -->
+                        <div class="header-right">
+                            <ul>
+<!--                            <li>
+                                    <div class="nav-search search-switch">
+                                        <span class="flaticon-search"></span>
+                                    </div>
+                                </li> -->
+                                <li> <a href="/login/"><span class="flaticon-user"></span></a></li>
+                                <li><a href="/cart/"><span class="flaticon-shopping-cart"></span></a> </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <!-- Mobile Menu -->
+                    <div class="col-12">
+                        <div class="mobile_menu d-block d-lg-none"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Header End -->
+    </header>
