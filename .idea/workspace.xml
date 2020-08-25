@@ -3,6 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="1a8a1bb8-86cb-43e8-bb31-e769ada06c02" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/js/contact.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/js/contact.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/timeshop/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/timeshop/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/timeshop/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/timeshop/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,11 +39,29 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597432042429</updated>
-      <workItem from="1597432086655" duration="1472000" />
+      <workItem from="1597432086655" duration="2599000" />
+      <workItem from="1598195503932" duration="223000" />
+      <workItem from="1598198822770" duration="1858000" />
+      <workItem from="1598251178251" duration="8816000" />
+      <workItem from="1598345726567" duration="1839000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="294" y="159" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598252789423">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="294" y="159" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1598252789423" />
+    <state width="230" height="499" key="HiddenNamespacesPopup" timestamp="1598252818859">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="230" height="499" key="HiddenNamespacesPopup/0.0.1680.1010@0.0.1680.1010" timestamp="1598252818859" />
+    <state x="503" y="217" key="search.everywhere.popup" timestamp="1597433562451">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="503" y="217" key="search.everywhere.popup/0.0.1680.1010@0.0.1680.1010" timestamp="1597433562451" />
   </component>
 </project>

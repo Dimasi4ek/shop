@@ -37,9 +37,14 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'django.contrib.sites',
 
     #My add
     'store.apps.StoreConfig',
+
+    # regestration
+    'allauth',
+    'allauth.account',
 ]
 
 MIDDLEWARE = [
@@ -85,6 +90,11 @@ DATABASES = {
 }
 
 
+AUTHENTIFICATION_BACKENDS = {
+    'django.contrib.auth.backends.ModelBackends',
+    'allaith.account.auth_backends.AunthenticationBackend',
+}
+
 # Password validation
 # https://docs.djangoproject.com/en/3.0/ref/settings/#auth-password-validators
 
@@ -127,3 +137,5 @@ STATIC_URL = '/static/'
 STATICFILES_DIRS = [
     os.path.join(BASE_DIR, 'static')
 ]
+
+SITE_ID = 1

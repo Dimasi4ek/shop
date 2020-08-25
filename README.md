@@ -27,6 +27,12 @@ python manage.py runserver
 ./manage.py runserver
 ```
 
+## Django-Admin panel
+```
+User name: admin
+password: 12341234
+```
+
 
 ## Автор
 
