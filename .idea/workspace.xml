@@ -1,11 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="1a8a1bb8-86cb-43e8-bb31-e769ada06c02" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/js/contact.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/js/contact.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/account/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/account/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/account/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/account/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base/header.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/timeshop/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/timeshop/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/timeshop/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/timeshop/urls.py" afterDir="false" />
     </list>
@@ -43,18 +61,41 @@
       <workItem from="1598195503932" duration="223000" />
       <workItem from="1598198822770" duration="1858000" />
       <workItem from="1598251178251" duration="8816000" />
-      <workItem from="1598345726567" duration="1839000" />
+      <workItem from="1598345726567" duration="11918000" />
+      <workItem from="1598800136685" duration="1007000" />
+      <workItem from="1598906586094" duration="16000" />
+      <workItem from="1599066629828" duration="2173000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="294" y="159" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598252789423">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="294" y="159" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1598252789423" />
+    <state x="520" y="238" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1598902467678">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="520" y="238" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1598902467678" />
+    <state x="438" y="66" width="990" height="877" key="CommitChangelistDialog2" timestamp="1598382965067">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="438" y="66" width="990" height="877" key="CommitChangelistDialog2/0.0.1680.1010@0.0.1680.1010" timestamp="1598382965067" />
     <state width="230" height="499" key="HiddenNamespacesPopup" timestamp="1598252818859">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
